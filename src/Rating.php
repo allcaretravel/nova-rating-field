@@ -21,7 +21,7 @@ class Rating extends Field
      * @var array
      */
     protected static $defaultStyles = [
-        'star-size' => 30,
+        'star-size' => 20,
         'active-color' => 'var(--primary)',
         'inactive-color' => '#d8d8d8',
         'border-color' => 'var(--60)',
@@ -32,6 +32,7 @@ class Rating extends Field
         'glow' => 0,
         'glow-color' => '#fff',
         'text-class' => 'inline-block text-80 h-9 pt-2',
+        'increment' => 0.5
     ];
 
     /**
