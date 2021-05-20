@@ -1,5 +1,5 @@
 {
-    "name": "nikaia/nova-rating-field",
+    "name": "allcaretravel/nova-rating-field",
     "description": "Add start rating field to Laravel Nova",
     "keywords": [
         "laravel",
@@ -7,12 +7,17 @@
         "field",
         "rating"
     ],
-    "homepage": "https://github.com/nikaia/nova-rating-field",
+    "homepage": "https://github.com/allcaretravel/nova-rating-field",
     "license": "MIT",
     "authors": [
         {
             "name": "Nassif Bourguig",
             "email": "nbourguig@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Sophy SEM",
+            "email": "semsphy@gmail.com",
             "role": "Developer"
         }
     ],
